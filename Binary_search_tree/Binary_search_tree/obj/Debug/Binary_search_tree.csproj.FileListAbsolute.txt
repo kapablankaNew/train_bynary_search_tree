@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Desktop\Программирование\Binary_search_tree\Binary_search_tree\bin\Debug\Binary_search_tree.exe.config
+C:\Users\Дмитрий\Desktop\Программирование\Binary_search_tree\Binary_search_tree\bin\Debug\Binary_search_tree.exe
+C:\Users\Дмитрий\Desktop\Программирование\Binary_search_tree\Binary_search_tree\bin\Debug\Binary_search_tree.pdb
+C:\Users\Дмитрий\Desktop\Программирование\Binary_search_tree\Binary_search_tree\obj\Debug\Binary_search_tree.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Программирование\Binary_search_tree\Binary_search_tree\obj\Debug\Binary_search_tree.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Программирование\Binary_search_tree\Binary_search_tree\obj\Debug\Binary_search_tree.exe
+C:\Users\Дмитрий\Desktop\Программирование\Binary_search_tree\Binary_search_tree\obj\Debug\Binary_search_tree.pdb
